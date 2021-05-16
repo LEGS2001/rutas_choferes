@@ -1,0 +1,10 @@
+Guayaquil-Cuenca,SMS,17-05-2018
+Guayaquil-Cuenca,AGB,18-05-2018
+Guayaquil-Cuenca,SMZ,17-05-2018
+Guayaquil-Daule,EVN,17-05-2018
+Guayaquil-Daule,AAQ,18-05-2018
+Guayaquil-Daule,LLM,17-05-2018
+Guayaquil-Daule,OPQ,18-05-2018
+Guayaquil-Daule,EBC,19-05-2018
+Guayaquil-Daule,ADF,19-05-2018
+Guayaquil-Portoviejo,QGE,20-05-2020
